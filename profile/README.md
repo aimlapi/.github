@@ -50,4 +50,4 @@ The other repositories ending in `-aimlapi` are forks of open-source apps that w
 
 For agents reading docs: [llms.txt](https://docs.aimlapi.com/llms.txt). Append `.md` to any docs URL to get Markdown.
 
-[Website](https://aimlapi.com) · [X](https://x.com/aimlapi) · help@aimlapi.com
+[Website](https://aimlapi.com/gh) · [X](https://x.com/aimlapi) · help@aimlapi.com
